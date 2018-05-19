@@ -1,0 +1,221 @@
+
+
+body {
+  text-align: center;
+}
+
+.credits {
+  font-size: 15px;
+}
+
+.author {
+  margin: auto;
+  margin-top: -30px;
+  font-size: 15px;
+}
+
+.playerOneName {
+  position: relative;
+  top: 80px;
+}
+
+.playerOneNameDbl {
+  position: relative;
+  top: 40px;
+}
+
+.dbl {
+  position: relative;
+  top: -10px;
+}
+
+.playerTwoNameDbl {
+  position: relative;
+  top: -20px;
+}
+
+.dbl2 {
+  position: relative;
+  top: -65px;
+}
+
+form {
+  position: relative;
+  top: 30px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-style: solid;
+  width: 210px;
+}
+
+input {
+  margin: auto;
+  width: 205px;
+}
+
+.single {
+  position: relative;
+  top: -20px;
+}
+
+.startDblP {
+  position: relative;
+  top: -105px;
+}
+
+p {
+  font-size: 30px;
+}
+
+.show {
+  display: none;
+}
+
+.wrapper2 {
+  padding: 10px;
+  position: relative;
+  border-style: solid;
+  border-width: 10px;
+  top: 30px;
+  width: 390px;
+  height: 390px;
+  margin: auto;
+  text-align: center;
+
+  border-radius: 30px;
+}
+
+.single {
+  border-style: solid;
+  border-width: 5px;
+  width: 160px;
+  height: 50px;
+  margin: auto;
+  margin-top: 30px;
+  font-size: 20px;
+  padding-top: 5px;
+  border-radius: 30px;
+}
+
+.single:hover {
+  background: grey;
+  cursor: pointer;
+}
+
+.one {
+  position: relative;
+  left: -90px;
+  top: 0px;
+}
+
+.two {
+  position: relative;
+  top: -80px;
+  right: -90px;
+  
+}
+
+
+.wrapper {
+  position: relative;
+  top: 30px;
+  width: 414px;
+  height: 514px;
+  margin: auto;
+  text-align: center;
+}
+
+.box {
+  position: absolute;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  width: 140px;
+  height: 140px;
+  left: -5px;
+  top: -10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.box:hover {
+  background-color: #99CCFF;
+  cursor: pointer;
+}
+
+.B {
+  position: absolute;
+  top: -10px;
+  left: 125px;
+  
+}
+
+.C {
+  position: absolute;
+  top: -10px;
+  left: 255px;
+}
+
+.row2 {
+  position: absolute;
+  top: 130px;
+}
+
+.row3 {
+  position: absolute;
+  top: 260px;
+}
+
+.player {
+  text-align: center;
+  font-size: 30px;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 8px;
+  position: relative;
+  width: 400px;
+  top: 410px;
+  left: -12px;
+  margin: auto;
+}
+
+.restart {
+  margin: auto;
+  position: relative;
+  top: 60px;
+  border-style: solid;
+  border-width: 5px;
+  width: 210px;
+  height: 50px;
+  font-size: 20px;
+  padding-top: 5px;
+  border-radius: 30px;
+}
+
+.restart:hover{
+  background: grey;
+  cursor: pointer;
+}
+
+.back {
+  margin: auto;
+  position: relative;
+  top: 90px;
+  border-style: solid;
+  border-width: 5px;
+  width: 210px;
+  height: 50px;
+  font-size: 20px;
+  padding-top: 5px;
+  border-radius: 30px;
+}
+
+.back:hover{
+  background: grey;
+  cursor: pointer;
+}
+
+.winner {
+  margin: 20px;
+}
